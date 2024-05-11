@@ -2,7 +2,11 @@
 
 -> IoT farm.
 
-username: admin, password: 123456
+link: https://smartgarden-web.vercel.app/
+
+account1 username: admin, password: 123456
+
+account2 username: user, password: 123456
 
 ## Devices is supplied:
 
